@@ -1,0 +1,3 @@
+jdbc:mysql://localhost:3306/hotel?autoReconnect=false&useSSL=true
+root
+patrycja

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Language-Options>
+
+    <Polish>
+        <FrameTitle>"Ewidencja pokojów hotelowych"</FrameTitle>
+        <Searcher>Wyszukiwarka</Searcher>
+        <Plaf>Skorki</Plaf>
+        <Plaf1>Morze</Plaf1>
+        <Plaf2>Drzewa</Plaf2>
+        <Plaf3>Góry</Plaf3>
+        <Language>Język</Language>
+        <Language1>Polski</Language1>
+        <Language2>Angielski</Language2>
+<!--Hotel-->
+        <Hotel>Hotel</Hotel>
+        <AddHotel>Dodaj hotel</AddHotel>
+        <SearchHotel>Wyszukaj Hotel</SearchHotel>
+        <SwimmingPool>Basen</SwimmingPool>
+        <Restaurant>Restauracja</Restaurant>
+        <Pets>Zwierzęta</Pets>
+        <Parking>Parking</Parking>
+        <WiFi>WiFi</WiFi>
+        <Country>Kraj</Country>
+        <EnterCountry>Wybierz kraj</EnterCountry>
+        <Resort>Miejscowość</Resort>
+        <Address>Adres</Address>
+        <EnterResort>Wybierz miejscowość</EnterResort>
+        <SelectHotel>Wybierz hotel</SelectHotel>
+        <Stars>Gwiazdki</Stars>
+        <Elevator>Winda</Elevator>
+        <Description>Opis</Description>
+ <!--Ogólne-->
+        <Delete>Usun</Delete>
+        <Adding>dodano</Adding>
+        <Amenities>Udogodnienia</Amenities>
+        <Clear>Wyczyść formularz</Clear>
+        <Results>Wyniki</Results>
+        <Id>Id.</Id>
+        <Translate>Przetłumacz</Translate>
+<!--Pokój-->
+        <SearchRoom>Wyszukaj pokój</SearchRoom>
+        <Room>Pokój</Room>
+        <AddRoom>Dodaj pokój</AddRoom>
+        <RoomSize>Ile osób</RoomSize>
+        <RoomName>Nazwa pokoju</RoomName>
+        <Price>Cena</Price>
+        <MinimumRoomPrice>Minimalna cena pokoju</MinimumRoomPrice>
+        <MaximumRoomPrice>Maksymalna cena pokoju</MaximumRoomPrice>
+        <Bathroom>Łazienka</Bathroom>
+        <LiquirCabinet>Barek</LiquirCabinet>
+        <Tv>Tv</Tv>
+<!-- Wyjątki/Ostrzeżenia-->
+        <NumberFormat>Zły format liczby!</NumberFormat>
+        <MinMaxPrice>Cena minimalna musi być mniejsza niż maksymalna!</MinMaxPrice>
+        <CharLimit>Przekroczyłeś limit znaków(</CharLimit>
+        <HotelExist>Hotel nie istnieje!</HotelExist>
+        <RoomExist>Pokój nie istnieje!</RoomExist>
+        <Warning>Puste/niepoprawnie wypełnione pola!</Warning>
+        <InternetConnection>Brak dostępu do internetu!</InternetConnection>
+    </Polish>
+
+    <English>
+        <Adding>added</Adding>
+        <FrameTitle>List of hotel rooms</FrameTitle>
+        <Searcher>Searcher</Searcher>
+        <Plaf>Plaf</Plaf>
+        <Plaf1>Sea</Plaf1>
+        <Plaf2>Tree</Plaf2>
+        <Plaf3>Mountain</Plaf3>
+        <Language>Language</Language>
+        <Language1>Polish</Language1>
+        <Language2>English</Language2>
+<!--Hotel-->
+        <SearchHotel>Search hotel</SearchHotel>
+        <Hotel>Hotel</Hotel>
+        <AddHotel>Add hotel</AddHotel>
+        <SwimmingPool>SwimmingPool</SwimmingPool>
+        <Restaurant>Restaurant</Restaurant>
+        <Pets>Pets</Pets>
+        <Parking>Parking</Parking>
+        <Elevator>Elevator</Elevator>
+        <WiFi>WiFi</WiFi>
+        <Country>Country</Country>
+        <EnterCountry>Please enter country:</EnterCountry>
+        <Resort>Resort</Resort>
+        <Address>Address</Address>
+        <EnterResort>Please enter resort</EnterResort>
+        <SelectHotel>Select hotel</SelectHotel>
+        <Stars>Stars</Stars>
+        <Description>Description</Description>
+
+<!-- Pokój-->
+        <SearchRoom>Search room</SearchRoom>
+        <Room>Room</Room>
+        <AddRoom>Add room</AddRoom>
+        <RoomSize>Persons</RoomSize>
+        <RoomName>Room name</RoomName>
+        <Price>Price</Price>
+        <MinimumRoomPrice>Minimum room price</MinimumRoomPrice>
+        <MaximumRoomPrice>Maximum room price</MaximumRoomPrice>
+        <Bathroom>Bathroom</Bathroom>
+        <LiquirCabinet>LiquirCabinet</LiquirCabinet>
+        <Tv>Tv</Tv>
+<!--Ogólne-->
+        <Clear>Clear forms</Clear>
+        <Results>Results</Results>
+        <Id>Id.</Id>
+        <Delete>Delete</Delete>
+        <Amenities>Amenities</Amenities>
+        <Translate>Translate</Translate>
+<!-- Wyjątki/Ostrzeżenia-->
+        <NumberFormat>Wrong number format!</NumberFormat>
+        <MinMaxPrice>Minimal price can't be bigger than maximum!</MinMaxPrice>
+        <CharLimit>You exceeded the character limit(</CharLimit>
+        <HotelExist>Hotel doesn't exist!</HotelExist>
+        <RoomExist>Room doesn't exist!</RoomExist>
+        <Warning>Incorrect fill/not fill fields!</Warning>
+        <InternetConnection>No internet access!!</InternetConnection>
+    </English>
+</Language-Options>

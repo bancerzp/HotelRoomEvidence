@@ -1,0 +1,8 @@
+[INFO] Hotel:40 - --------------------------------------Zaczynam logowanie-------------------------------------- - Data wpisu: 2019-03-13 20:31:39,582 
+[DEBUG] Hotel:51 - Pobrane zostały dane logowania - Data wpisu: 2019-03-13 20:31:39,587 
+[INFO] Hotel:53 - Próba połączenia z bazą danych - Data wpisu: 2019-03-13 20:31:39,587 
+[ERROR] Hotel:58 - Próba połączenia z bazą danych zakończona niepowodzeniem!java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES) - Data wpisu: 2019-03-13 20:31:40,113 
+[INFO] Hotel:40 - --------------------------------------Zaczynam logowanie-------------------------------------- - Data wpisu: 2019-03-13 20:31:57,711 
+[DEBUG] Hotel:51 - Pobrane zostały dane logowania - Data wpisu: 2019-03-13 20:31:57,715 
+[INFO] Hotel:53 - Próba połączenia z bazą danych - Data wpisu: 2019-03-13 20:31:57,716 
+[ERROR] Hotel:58 - Próba połączenia z bazą danych zakończona niepowodzeniem!java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES) - Data wpisu: 2019-03-13 20:31:58,296 

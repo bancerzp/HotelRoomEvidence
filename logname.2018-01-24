@@ -1,0 +1,18 @@
+[INFO] Hotel:40 - --------------------------------------Zaczynam logowanie-------------------------------------- - Data wpisu: 2018-01-24 15:51:07,823 
+[DEBUG] Hotel:51 - Pobrane zostały dane logowania - Data wpisu: 2018-01-24 15:51:07,823 
+[INFO] Hotel:53 - Próba połączenia z bazą danych - Data wpisu: 2018-01-24 15:51:07,823 
+[INFO] Hotel:61 - Próba połączenia z bazą danych zakończona powodzeniem :) - Data wpisu: 2018-01-24 15:51:08,245 
+[INFO] Panels.MainPanel:471 - Próba utworzenia instancji SearchRoomPanel - Data wpisu: 2018-01-24 15:51:08,455 
+[INFO] Panels.SearchHotelPanel:697 - Próba utworzenia panelu SearchHotelPanel - Data wpisu: 2018-01-24 15:51:08,545 
+[INFO] Panels.SearchHotelPanel:527 - Próba wykonania zapytania:select distinct name from hotel where name is not null  - Data wpisu: 2018-01-24 15:51:09,337 
+[INFO] Panels.SearchHotelPanel:543 - Próba wykonania zapytania:select distinct country from hotel where country is not null - Data wpisu: 2018-01-24 15:51:09,337 
+[INFO] Panels.SearchHotelPanel:558 - Próba wykonania zapytania:select distinct resort from hotel where resort is not null  - Data wpisu: 2018-01-24 15:51:09,347 
+[INFO] Panels.SearchRoomPanel:374 - Próba utworzenia instancji SearchRoomPanel - Data wpisu: 2018-01-24 15:51:09,357 
+[INFO] Panels.AddHotelPanel:796 - Próba utworzenia instancji klasy AddHotelPanel - Data wpisu: 2018-01-24 15:51:09,719 
+[INFO] Panels.AddRoomPanel:350 - Próba utworzenia instancji klasy AddRoomPanel - Data wpisu: 2018-01-24 15:51:10,209 
+[INFO] Panels.AddRoomPanel:425 - Próba wykonania zapytania: select idHotel,name from hotel where name<>'' and name is not null; - Data wpisu: 2018-01-24 15:51:10,573 
+[INFO] Panels.SearchHotelPanel:492 - Nastapila zmiana jezyka w tym panelu! - Data wpisu: 2018-01-24 15:51:10,583 
+[INFO] Panels.SearchRoomPanel:694 - Zmieniono jezyk w tym panelu! - Data wpisu: 2018-01-24 15:51:10,603 
+[INFO] Panels.AddHotelPanel:694 - Nastapila zmiana jezyka w tym panelu! - Data wpisu: 2018-01-24 15:51:10,613 
+[INFO] Panels.AddRoomPanel:595 - Nastapila zmiana jezyka w tym panelu! - Data wpisu: 2018-01-24 15:51:10,623 
+[DEBUG] Panels.MainPanel:201 - Panel główny utworzony poprawnie - Data wpisu: 2018-01-24 15:51:11,037 
